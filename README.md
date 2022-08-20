@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alexander</h1>
-<h3 align="center">Previously a high school math teacher, I am driven by the potential of technology to improve people's lives via innovation.</h3>
+<h3 align="center">Previously a high school math teacher, I am driven by the power of technology to improve and uplift people by solving everyday problems.</h3>
 
 - ⚡ Fun fact **I speak 5.1 languages.**
 
