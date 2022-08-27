@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/TYthFRxS/sebastian.png" align="center">
+<div align="center"><img src="https://i.postimg.cc/TYthFRxS/sebastian.png"></div>
 <h3 align="center">Driven by the power of technology to improve lives. Previously a high school math teacher.</h3>
 <p align="center">
 
